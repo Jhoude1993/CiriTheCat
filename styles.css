@@ -1,3 +1,50 @@
-.styled-image {
-    width: 300px;
+body {
+
+    background-color: beige;
 }
+
+h1 {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    font-size: 20pt;
+    text-decoration: underline;
+}
+
+.image-container {
+
+    text-align: center;
+}
+
+.styled-image {
+    width: 500px;
+    align-content: center;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    
+    margin:auto;
+
+    max-width: 500px;
+    align-content: center;
+    background-color: aqua;
+}
+
+.detailsList {
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+    line-height: 20pt;
+
+    
+
+    font-size: 12pt;
+
+    
+}
+
+
+
+
